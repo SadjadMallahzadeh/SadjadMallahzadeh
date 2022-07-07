@@ -1,7 +1,7 @@
-Hi There, I'm Sadjad &#128075;
+Hi There, I'm Sadjad &#128075; 
 ===============================
 
-I'm an Androi Developer based in Tampere, Finalnd <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/nz82p0pX/Bevelled-Finland.png" width="30" height="27" alt="Kotlin" /></a>
+#### I'm an Androi Developer based in Tampere, Finalnd <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/nz82p0pX/Bevelled-Finland.png" width="30" height="27" alt="Kotlin" /></a>
 -----------------------------
 <!-- andddddddddddddddddddddddd -->
 <!--*   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)--> 
@@ -13,9 +13,11 @@ I'm an Androi Developer based in Tampere, Finalnd <a href="https://kotlinlang.or
                 /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>-->
                   
-### Skills
+# Skills
 
-<h3 align="left">Tools:</h3>
+
+
+<h3 align="left"> <font size="1"> This is my text number1  Tools:</font></h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
 
