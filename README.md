@@ -6,7 +6,7 @@ I'm an Androi Developer based in Tampere, Finalnd <a href="https://kotlinlang.or
 <!-- andddddddddddddddddddddddd -->
 <!--*   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)--> 
 <!--*   🚀  I'm currently working on [Holosen](https://holosen.net)-->
-*   🤝  I'm open to collaborating on interesting projects as an android developer
+*   🤝  Open to collaborating on interesting projects as an android developer
 
 <!--<a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
