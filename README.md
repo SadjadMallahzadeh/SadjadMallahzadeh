@@ -34,10 +34,10 @@ Hi There, I'm Sadjad &#128075;
  <!-- <a href="https://badrnezhad.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>-->
     <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+<!--### Badges-->
 
-<b>My GitHub Stats</b>
+<!--<b>My GitHub Stats</b>-->
 
-<a href="https://github.com/sadjadmallahzadeh" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrnezhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/sadjadmallahzadeh" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadjadmallahzadeh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 <!--### Support Me
 <a href="https://www.buymeacoffee.com/badrnezhad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>-->
