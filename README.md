@@ -1,7 +1,7 @@
 Hi There, I'm Sadjad &#128075; 
 ===============================
 
-#### I'm an Androi Developer based in Tampere, Finalnd <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/nz82p0pX/Bevelled-Finland.png" width="30" height="27" alt="Kotlin" /></a>
+#### I'm an Androi Developer based in Tampere, Finland <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/nz82p0pX/Bevelled-Finland.png" width="30" height="27" alt="Kotlin" /></a>
 -----------------------------
 <!-- andddddddddddddddddddddddd -->
 <!--*   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)--> 
